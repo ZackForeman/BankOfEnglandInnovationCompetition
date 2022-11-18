@@ -1,0 +1,60 @@
+# import libraries
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import MinMaxScaler
+#for deep learning model
+from keras import Sequential
+from keras.layers import Dense
+from keras.layers import LSTM
+from keras.layers import Dropout
+
+# read data set
+df = pd.read_csv('PredictingStockPrices/NSE-TATAGLOBAL.csv')
+df.shape
+df = df[::-1]
+df = df.reset_index(drop=True)
+df.head()
+
+# split test train
+open_price = df.iloc[:,1:2]
+train_set = open_price[:2000].values
+test_set = open_price[2000:].values
+print("Train size: ",train_set.shape)
+print("Test size:",test_set.shape)
+
+# plot data
+dates = pd.to_datetime(df['Date'])
+plt.plot_date(dates, open_price,fmt='-')
+plt.savefig("test1final.png")
+
+# scale data
+sc = MinMaxScaler()
+train_set_scaled = sc.fit_transform(train_set)
+
+# create training data 
+x_train = []
+y_train = []
+for i in range(60,2000):
+    x_train.append(train_set_scaled[i-60:i,0])
+    y_train.append(train_set_scaled[i,0])
+x_train = np.array(x_train)
+y_train = np.array(y_train)
+x_train = np.reshape(x_train,(x_train.shape[0],x_train.shape[1],1))
+x_train.shape
+
+# train Data 
+reg = Sequential()
+reg.add(LSTM(units = 50,return_sequences=True,input_shape=(x_train.shape[1],1)))
+reg.add(Dropout(0.2))
+reg.add(LSTM(units = 50,return_sequences=True))
+reg.add(Dropout(0.2))
+reg.add(LSTM(units = 50,return_sequences=True))
+reg.add(Dropout(0.2))
+reg.add(LSTM(units=50))
+reg.add(Dropout(0.2))
+reg.add(Dense(units=1))
+reg.compile(optimizer = 'adam',loss='mean_squared_error')
+reg.fit(x_train,y_train, epochs=20, batch_size =1,verbose=2)
+
+
