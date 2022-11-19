@@ -4,8 +4,8 @@ https://www.bankofengland.co.uk/education/competitions/innovation-competition
 
 > Our mission is to promote the good of the people of the United Kingdom by maintaining monetary and financial stability. 
 >   - What is artificial intelligence (AI)?
-    - How are other central banks and institutions already using AI?
-    - What are the potential challenges or benefits of AI and how can the Bank of England mitigate or take advantage of these?
+>   - How are other central banks and institutions already using AI?
+>   - What are the potential challenges or benefits of AI and how can the Bank of England mitigate or take advantage of these?
 > The closing date for the competition is 23.59pm GMT on 31 January 2023.
 
 ## Bank of England Data Sets
