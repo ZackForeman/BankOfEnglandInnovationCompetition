@@ -18,10 +18,15 @@ https://www.bankofengland.co.uk/research/bank-of-england-agenda-for-research
 
 ## Bank of England Fintech 
 https://www.bankofengland.co.uk/research/fintech
+
 https://www.bankofengland.co.uk/report/2022/machine-learning-in-uk-financial-services
 
 ## AI in central Banks
 https://cepr.org/voxeu/columns/artificial-intelligence-central-banker#:~:text=Artificial%20intelligence%20(AI)%20is%20increasingly,into%20core%20central%20bank%20functions.
+
+https://ec.europa.eu/eurostat/web/european-statistical-system/-/the-use-of-big-data-analytics-and-artificial-intelligence-in-central-banking
+
+https://www.bis.org/publ/work930.pdf
 
 ## Other links 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
