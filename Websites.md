@@ -28,11 +28,18 @@ https://www.government.se/contentassets/854ee6afbbc94f78bf1e0bbd0401407d/the-int
 
 https://www.bis.org/publ/bcbs_wp18.pdf
 
+https://books.google.co.uk/books?hl=en&lr=&id=d8agcFHyKlQC&oi=fnd&pg=PR7&dq=different+parts+of+the+financial+system&ots=IzJXyMpYPZ&sig=vE8WtVi_-R6rYlH5C75MDhT-bB4&redir_esc=y#v=onepage&q=different%20parts%20of%20the%20financial%20system&f=false
+
 Datasets:
+
 Interest Rates  - 
+
 Government Debt -
+
 ftse 100        -
+
 vix             - 
+
 cpih            - 
 
 ## Bank of England Fintech 
