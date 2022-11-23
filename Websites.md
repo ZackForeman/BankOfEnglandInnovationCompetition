@@ -54,6 +54,8 @@ https://ec.europa.eu/eurostat/web/european-statistical-system/-/the-use-of-big-d
 
 https://www.bis.org/publ/work930.pdf
 
+https://d1wqtxts1xzle7.cloudfront.net/86431835/ifcb50_01-with-cover-page-v2.pdf?Expires=1669249483&Signature=NDw~vvvvPMRMfV~7PRuf5HZQpB8GlEDF0HfPrE8fEczeA~BwDSDHcPdMcOvdVwVs7kB9vSqwPVuoUz6BzjJ5QUy7OIuyVCXae6l98ps~tUC1UOQ3638ARpTaOK306yuJ-daGpHzHUyttguKYw7qVccTGALDRzzKI~6kEMlTYGULlbgHZzwfyzf9gH7oxHxwgz5GSAIiGrYQUSJneYKEVOnBy75dgkuDfoPfbXWgkOiZAF3C3ONXr3l0-hvfp2ZFM2fHJZAMs36znILcWw2cvMWDF0g8keQQGFXUbykoBxk8X-W1bLoRdLOkg3qCeO16ZJsOeglx2jHT7JoP0b-PlyA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
 ## Other links 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
