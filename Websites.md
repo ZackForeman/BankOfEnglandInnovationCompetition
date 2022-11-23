@@ -28,6 +28,13 @@ https://www.government.se/contentassets/854ee6afbbc94f78bf1e0bbd0401407d/the-int
 
 https://www.bis.org/publ/bcbs_wp18.pdf
 
+Datasets:
+Interest Rates  - 
+Government Debt -
+ftse 100        -
+vix             - 
+cpih            - 
+
 ## Bank of England Fintech 
 https://www.bankofengland.co.uk/research/fintech
 
