@@ -34,13 +34,15 @@ Datasets:
 
 Interest Rates  - 
 
-Government Debt -
+Government Debt - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicspending/bulletins/ukgovernmentdebtanddeficitforeurostatmaast/march2022
 
-ftse 100        -
+ftse 100        - https://www.marketwatch.com/investing/index/ukx/download-data?startDate=12/31/2008&endDate=11/25/2022&countryCode=uk
 
 vix             - 
+ 
+---
 
-cpih            - 
+cpih            - https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23
 
 ## Bank of England Fintech 
 https://www.bankofengland.co.uk/research/fintech
