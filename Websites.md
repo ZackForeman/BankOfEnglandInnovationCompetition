@@ -39,6 +39,8 @@ Government Debt - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/
 ftse 100        - https://www.marketwatch.com/investing/index/ukx/download-data?startDate=12/31/2008&endDate=11/25/2022&countryCode=uk
 
 vix             - 
+
+GDP growth      - 
  
 ---
 
