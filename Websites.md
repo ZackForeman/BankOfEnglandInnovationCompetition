@@ -32,7 +32,7 @@ https://books.google.co.uk/books?hl=en&lr=&id=d8agcFHyKlQC&oi=fnd&pg=PR7&dq=diff
 
 Datasets:
 
-Interest Rates  - 
+Interest Rates  - https://www.bankofengland.co.uk/boeapps/database/fromshowcolumns.asp?Travel=NIxAZxSUx&FromSeries=1&ToSeries=50&DAT=RNG&FD=1&FM=Jan&FY=2012&TD=13&TM=Nov&TY=2027&FNY=Y&CSVF=TT&html.x=66&html.y=26&SeriesCodes=IUMZICQ,IUMBV34,IUMZICR,IUMB482,IUM2WTL,IUMBV37,IUMBV42,IUM5WTL,IUMBV45,IUMBV48,IUMB479,IUM2WDT,IUMBV24,IUMTLMV,IUMZID4,IUMBX67,IUMHPTL,IUMCCTL,IUMODTL,IUMB6VJ,IUMB6VK,IUMB6VL,IUMB6VM,IUMB6VN,IUMZID2,IUMWTFA,IUMB6RH,IUMB6RI&UsingCodes=Y&Filter=N&title=Quoted%20Rates&VPD=Y
 
 Government Debt - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicspending/bulletins/ukgovernmentdebtanddeficitforeurostatmaast/march2022
 
