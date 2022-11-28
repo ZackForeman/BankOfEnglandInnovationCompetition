@@ -40,7 +40,7 @@ ftse 100        - https://www.marketwatch.com/investing/index/ukx/download-data?
 
 vix             - 
 
-GDP growth      - 
+GDP growth      - https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/ihyq/pn2
  
 ---
 
