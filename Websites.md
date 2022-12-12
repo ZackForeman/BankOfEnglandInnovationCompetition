@@ -2,6 +2,9 @@
 ## Bank of England Competition 
 https://www.bankofengland.co.uk/education/competitions/innovation-competition
 
+https://www.bankofengland.co.uk/-/media/boe/files/events/2020/november/modelling-with-big-data-event-livia-paranhos-presentation.pdf?la=en&hash=6C70386B67F14DEA8CD8A5F721CA10EFD596C586
+
+
 > Our mission is to promote the good of the people of the United Kingdom by maintaining monetary and financial stability. 
 <!-- start of the list -->
 >   - What is artificial intelligence (AI)?
