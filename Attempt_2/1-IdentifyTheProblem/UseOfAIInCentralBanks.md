@@ -1,4 +1,4 @@
-# UseOfAllInCentralBanks
+# UseOfAIInCentralBanks
 ## Artificial Intelligence As A Central Banker
 
 https://cepr.org/voxeu/columns/artificial-intelligence-central-banker#:~:text=Artificial%20intelligence%20(AI)%20is%20increasingly,into%20core%20central%20bank%20functions
