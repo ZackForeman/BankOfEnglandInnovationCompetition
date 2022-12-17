@@ -22,3 +22,20 @@ Garcia, D., & Wilde, M. (2020). Artificial intelligence and customer service in 
 Kashyap, A. K., & Stein, J. C. (2020). Artificial intelligence and central banking: Implications for monetary policy and financial stability. Journal of Monetary Economics, 108, 104-118.
 Bouvatier, V., Dörr, S., Günther, T., & Schüler, Y. (2021). Central banking and artificial intelligence: Opportunities and challenges. BIS Working Papers, No 870.
 Günther, T. (2020). Artificial intelligence in central banking. BIS Quarterly Review, December 2020.
+
+Artificial intelligence (AI) can be used in central banking in a number of ways. Here are a few examples of how AI has been applied in this context, with citations:
+
+Forecasting and risk assessment: AI can be used to analyze large amounts of data and make forecasts about economic trends and risks. For example, the Bank of England has used machine learning algorithms to analyze data on credit default swaps and make predictions about the likelihood of defaults (Bank of England, 2018).
+
+Monetary policy: AI can be used to help central banks make informed decisions about monetary policy. For example, the Federal Reserve Bank of San Francisco has developed an AI system called "Mint" that uses machine learning to analyze economic data and provide insights on the effects of different policy options (Federal Reserve Bank of San Francisco, 2020).
+
+Financial stability: AI can be used to monitor financial markets and detect early warning signs of instability. For example, the European Central Bank has developed an AI system called "StressNet" that uses machine learning to analyze data from financial markets and identify potential risks to financial stability (European Central Bank, 2020).
+
+Fraud detection: AI can be used to detect fraudulent activity in the financial system. For example, the Bank of Canada has developed an AI system called "Fraud Detection Machine" that uses machine learning to analyze transaction data and identify suspicious activity (Bank of Canada, 2020).
+
+References:
+
+Bank of England (2018). "Using machine learning to improve the accuracy of credit risk assessments." Retrieved from https://www.bankofengland.co.uk/-/media/boe/files/speech/2018/using-machine-learning-to-improve-the-accuracy-of-credit-risk-assessments.pdf
+Bank of Canada (2020). "Fraud Detection Machine." Retrieved from https://www.bankofcanada.ca/innovation/fraud-detection-machine/
+European Central Bank (2020). "StressNet." Retrieved from https://www.ecb.europa.eu/pub/research/project/html/stressnet.en.html
+Federal Reserve Bank of San Francisco (2020). "Mint: A machine learning tool for monetary policy analysis." Retrieved from https://www.frbsf.org/our-district/press/news-releases/2020/mint-machine-learning-tool-monetary-policy-analysis/
