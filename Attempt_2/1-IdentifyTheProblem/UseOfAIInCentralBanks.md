@@ -49,3 +49,7 @@ management segments.
 https://www.frankfurt-school.de/dam/jcr:276423be-5b11-4a91-b9ed-2aafefb84352/AI%20Monetary%20policy%20write-up%20v%2013%20July%202021%20.pdf
 
 (Lots of Uses)
+
+## A new approach to Early Warning Systems for small European banks 
+
+https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2348~351ba1be4c.en.pdf
