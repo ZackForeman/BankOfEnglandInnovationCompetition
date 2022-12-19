@@ -17,3 +17,11 @@
 >   - Removing Bias
 >   - Deployment of ML systems 
 <!-- end of the list -->
+
+# Final Two 
+<!-- start of the list -->
+>   - Economic Forecasting and Modelling and its uses in Financial Stability
+>   - Deployment of Machine Learning Systems (Hardware) and its affect on the Financial System.  
+<!-- end of the list -->
+
+
