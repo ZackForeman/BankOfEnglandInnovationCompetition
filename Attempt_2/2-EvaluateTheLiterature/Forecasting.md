@@ -57,3 +57,8 @@ banking distress identification. The indicators are:
 • Liquidity,
 • Sensitivity to market risk,
 
+## Predicting GDP growth in Malaysia using knowledge-based economy indicators : a comparison between neural network and econometric approaches
+
+http://eprints.sunway.edu.my/9/1/Predicting%20GDP%20growth%20in%20Malaysia%20using%20knowledge-based%20economy%20indicators%20%20a%20comparison%20between%20neural%20network%20and%20econometric%20approaches.pdf
+
+
